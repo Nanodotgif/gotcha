@@ -39,6 +39,51 @@ const questionData = { "questions" : [
             "/images/animals/g-8.png",
             "/images/animals/g-9.png"
         ]
+    },
+    {
+        "question": "Select all images containing",
+        "object": "f̶u̷b̵e̵l̸",
+        "images": [
+            "/images/fubel/g-1.png",
+            "/images/fubel/g-2.png",
+            "/images/fubel/g-3.png",
+            "/images/fubel/g-4.png",
+            "/images/fubel/g-5.png",
+            "/images/fubel/g-6.png",
+            "/images/fubel/g-7.png",
+            "/images/fubel/g-8.png",
+            "/images/fubel/g-9.png"
+        ]
+    },
+    {
+        "question": "Select all images of",
+        "object": "Your residence.",
+        "images": [
+            "/images/house/g-1.png",
+            "/images/house/g-2.png",
+            "/images/house/g-3.png",
+            "/images/house/g-4.png",
+            "/images/house/g-5.png",
+            "/images/house/g-6.png",
+            "/images/house/g-7.png",
+            "/images/house/g-8.png",
+            "/images/house/g-9.png"
+        ]
+    },
+    {
+        "question": "",
+        "object": "",
+        "images": [
+            "/images/eyes/g-1.png",
+            "/images/eyes/g-2.png",
+            "/images/eyes/g-3.png",
+            "/images/eyes/g-4.png",
+            "/images/eyes/g-5.png",
+            "/images/eyes/g-6.png",
+            "/images/eyes/g-7.png",
+            "/images/eyes/g-8.png",
+            "/images/eyes/g-9.png"
+        ]
     }
 ]
 
